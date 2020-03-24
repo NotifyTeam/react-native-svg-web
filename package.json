@@ -35,13 +35,13 @@
     }
   },
   "peerDependencies": {
-    "react": ">=15.4.0"
+    "react": ">=16.13.0"
   },
   "dependencies": {
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
-    "react": "^15.5.4",
+    "react": "^16.13.0",
     "xo": "^0.18.2"
   }
 }
