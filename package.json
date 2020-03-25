@@ -41,6 +41,7 @@
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
+    "react-native-web": "^0.12.2",
     "react": "^16.13.0",
     "xo": "^0.18.2"
   }
